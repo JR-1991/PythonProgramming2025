@@ -3,8 +3,8 @@ plugins:
   - mkdocs-jupyter
 theme:
   name: material
-  repo_url: https://github.com/JR-1991/PythonProgrammingBio24
-  repo_name: PythonProgrammingBio24
+  repo_url: https://github.com/JR-1991/PythonProgramming25
+  repo_name: PythonProgramming25
   icon:
     repo: fontawesome/brands/git-alt
   features:
