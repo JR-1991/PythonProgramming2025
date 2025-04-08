@@ -1,6 +1,6 @@
 # Overview
 
-[![](https://img.shields.io/badge/GitHub-Course%20Material-blue)](https://github.com/JR-1991/PythonProgramming25)
+[![](https://img.shields.io/badge/GitHub-Course%20Material-blue)](https://github.com/JR-1991/PythonProgramming2025)
 
 Welcome to the Python programming in biology and chemistry course repository! This repository contains exercises, solutions, and notebooks for learning the Python programming language tailored specifically for applications in biology and chemistry.
 
