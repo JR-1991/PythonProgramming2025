@@ -28,10 +28,14 @@ jobs:
         run: |
           mkdir -p docs/notes
           mkdir -p docs/solutions
+          mkdir -p docs/projects
           if [ -d "notebooks" ]; then
             cp notebooks/*.ipynb ./docs/notes
           fi
           if [ -d "solutions" ]; then
             cp solutions/*.ipynb ./docs/solutions
+          fi
+          if [ -d "projects" ]; then
+            cp projects/*.ipynb ./docs/projects
           fi
       - run: mkdocs gh-deploy --force
